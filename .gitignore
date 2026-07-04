@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+apps/backend/.env
+apps/backend/*.db
+apps/desktop/dist/
+apps/desktop/dist-electron/
+apps/desktop/tsconfig.tsbuildinfo
+.vite/
